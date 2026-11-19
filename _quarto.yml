@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages serves this folder
+  render:                   # only the site pages (tools/ and source/ are never rendered)
+    - "*.qmd"
+    - "fr/*.qmd"
+    - "ar/*.qmd"
+  resources:
+    - assets/**
+    - .nojekyll
+
+website:
+  title: "Passion Gourmande"
+  site-url: "https://passiongourmande.github.io"
+  description: "Passion Gourmande by Lilya: custom cakes, wedding cakes, 3D cakes, French pastries and sweet tables for weddings, birthdays and special events in Ottawa."
+  favicon: assets/logo-mark.svg
+  open-graph: true
+  page-navigation: false
+
+# English is the default language (pages at the root); French in fr/, Arabic (RTL) in ar/.
+# Header/footer are set per language: English pages in their own front matter,
+# fr/ and ar/ in their _metadata.yml (Quarto merges includes, so they can't be set globally).
+lang: en
+format:
+  html:
+    theme: [default, styles.scss]
+    page-layout: custom
+    toc: false
+    title-block-style: none
+    anchor-sections: false
+    section-divs: false
+    smooth-scroll: true
+    link-external-icon: false

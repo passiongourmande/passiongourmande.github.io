@@ -1,0 +1,5 @@
+lang: fr
+format:
+  html:
+    include-before-body: ../_partials/header-fr.html
+    include-after-body: ../_partials/footer-fr.html

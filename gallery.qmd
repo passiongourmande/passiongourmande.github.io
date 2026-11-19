@@ -1,0 +1,38 @@
+---
+format:
+  html:
+    include-before-body: _partials/header-en.html
+    include-after-body: _partials/footer-en.html
+title: "Gallery"
+description: "Recent cakes and creations by Passion Gourmande by Lilya, cake artist in Ottawa."
+---
+
+:::: {.page-hero}
+::: {.wrap}
+[Gallery]{.eyebrow}
+
+# Recent *creations*
+
+Wedding cakes, birthday cakes, 3D cakes, pastries and sweet tables, straight from Instagram.
+:::
+::::
+
+::::: {.band}
+:::: {.wrap}
+{{< include _partials/_ig-gallery-en.md >}}
+::::
+:::::
+
+::::: {.cta-band}
+::: {.wrap}
+## Saw something *you love?*
+
+Send it as inspiration with your order request. Every cake is made one of a kind.
+
+```{=html}
+<div class="actions">
+  <a class="btn btn-rose" href="order.html">Order a cake</a>
+</div>
+```
+:::
+:::::

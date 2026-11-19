@@ -1,0 +1,148 @@
+---
+title: "Créations : gâteaux personnalisés, mariages, pâtisseries et tables sucrées"
+description: "Gâteaux de fête, gâteaux de mariage, gâteaux 3D, cheesecakes, pâtisseries françaises, bouchées salées, gâteaux traditionnels et tables sucrées par Passion Gourmande à Ottawa."
+---
+
+:::: {.page-hero}
+::: {.wrap}
+[Créations]{.eyebrow}
+
+# Tout est *fait sur commande*
+
+Chaque création est pensée pour votre événement : le thème, les couleurs, les saveurs et le nombre d'invités.
+:::
+::::
+
+::::: {.band}
+:::: {.wrap}
+::: {.creation}
+[01]{.no}
+
+::: {.col}
+### Gâteaux de fête
+
+Anniversaires, baby showers, remises de diplôme : un gâteau pensé autour de votre thème, de l'élégant et raffiné au ludique et coloré pour les enfants.
+
+- Anniversaires
+- Baby showers & gender reveals
+- Anniversaires de mariage
+- Remises de diplôme
+:::
+:::
+
+::: {.creation}
+[02]{.no}
+
+::: {.col}
+### Gâteaux de mariage
+
+Des gâteaux à étages assortis au style de votre journée, du blanc classique au floral et moderne, ainsi que des gâteaux de fiançailles et de soirée henné.
+
+- Mariages
+- Fiançailles
+- Soirées henné
+:::
+:::
+
+::: {.creation}
+[03]{.no}
+
+::: {.col}
+### Gâteaux 3D & sculptés
+
+Un gâteau à la forme de ce que vous aimez : un personnage préféré, un objet, une passion. Le genre de gâteau qu'on photographie avant de le goûter.
+
+- Fêtes d'enfants
+- Anniversaires à thème
+- Surprises
+:::
+:::
+
+::: {.creation}
+[04]{.no}
+
+::: {.col}
+### Cheesecakes
+
+Des cheesecakes onctueux, en gâteau de fête à part entière ou sur une table de desserts.
+
+- Tables de desserts
+- Réunions de famille
+- Cadeaux
+:::
+:::
+
+::: {.creation}
+[05]{.no}
+
+::: {.col}
+### Pâtisseries & bouchées
+
+Mignardises et bouchées sucrées inspirées de la pâtisserie française, idéales pour réceptions, tables de desserts et coffrets cadeaux.
+
+- Réceptions
+- Événements d'entreprise
+- Coffrets cadeaux
+:::
+:::
+
+::: {.creation}
+[06]{.no}
+
+::: {.col}
+### Salés & gâteaux traditionnels
+
+Bouchées salées pour vos réceptions, et gâteaux traditionnels comme le *qalb el louz* pour les fêtes et réunions de famille.
+
+- Soirées henné
+- Réceptions
+- Aïd & fêtes de famille
+:::
+:::
+
+::: {.creation}
+[07]{.no}
+
+::: {.col}
+### Tables sucrées & buffets
+
+Une table complète et décorée pour votre événement : gâteau, pâtisseries, douceurs et salés, assortis à votre thème et vos couleurs.
+
+- Soirées henné
+- Mariages
+- Événements d'entreprise & associatifs
+:::
+:::
+::::
+:::::
+
+::::: {.band .tight .bg-cream}
+:::: {.wrap .split}
+::: {.col}
+## Allergies & *régimes*
+
+Merci d'indiquer toute allergie, intolérance ou régime particulier dans votre demande, afin d'en discuter pour votre commande.
+:::
+
+::: {.col}
+## Tailles & *prix*
+
+Chaque devis est personnalisé : il dépend du design, du nombre de parts et de la date. Envoyez votre demande et vous recevrez un devis pour votre événement.
+:::
+::::
+:::::
+
+::::: {.cta-band}
+::: {.wrap}
+## Prêt à imaginer *votre gâteau ?*
+
+Parlez-moi de votre événement, de votre thème et de vos saveurs préférées.
+
+```{=html}
+<div class="actions">
+  <a class="btn btn-rose" href="order.html">Commander un gâteau</a>
+  <a class="btn btn-line" href="gallery.html">Voir la galerie</a>
+</div>
+```
+:::
+:::::

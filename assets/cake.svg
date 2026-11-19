@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-label="Illustration of a three-tier cake">
+  <circle cx="200" cy="236" r="186" fill="#F3DEDA"/>
+  <circle cx="200" cy="236" r="186" fill="none" stroke="#C9A36A" stroke-width="1.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <!-- stand -->
+  <g fill="#FFFDFB" stroke="#3A2622" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M178 394h44l10 30h-64z"/>
+    <ellipse cx="200" cy="388" rx="158" ry="12"/>
+  </g>
+  <!-- tiers -->
+  <g fill="#FFFDFB" stroke="#3A2622" stroke-width="2.5" stroke-linejoin="round">
+    <rect x="72" y="282" width="256" height="100" rx="5"/>
+    <rect x="112" y="196" width="176" height="86" rx="5"/>
+    <rect x="150" y="126" width="100" height="70" rx="5"/>
+  </g>
+  <!-- chocolate drip on top tier -->
+  <path d="M150 131a5 5 0 0 1 5-5h90a5 5 0 0 1 5 5v9c-6 0-6 12-12 12s-6-10-12-10-6 18-13 18-7-16-13-16-6 12-12 12-6-14-12-14-7 20-14 20-7-16-12-16z" fill="#6B4438" stroke="#3A2622" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- middle tier: rose stripes -->
+  <g stroke="#E8C4C0" stroke-width="6" stroke-linecap="round">
+    <path d="M136 212v54M160 212v54M184 212v54M208 212v54M232 212v54M256 212v54"/>
+  </g>
+  <path d="M112 270h176" stroke="#C9A36A" stroke-width="3"/>
+  <!-- bottom tier: scallops + pearls -->
+  <path d="M72 300c9 0 9 14 18 14s9-14 18-14 9 14 18 14 9-14 18-14 9 14 18 14 9-14 18-14 9 14 18 14 9-14 18-14 9 14 18 14 9-14 18-14 9 14 18 14 9-14 18-14 9 14 18 14 9-14 18-14" fill="none" stroke="#9C4257" stroke-width="2.5" stroke-linecap="round"/>
+  <g fill="#C9A36A">
+    <circle cx="90" cy="368" r="3.5"/><circle cx="110" cy="368" r="3.5"/><circle cx="130" cy="368" r="3.5"/><circle cx="150" cy="368" r="3.5"/>
+    <circle cx="170" cy="368" r="3.5"/><circle cx="190" cy="368" r="3.5"/><circle cx="210" cy="368" r="3.5"/><circle cx="230" cy="368" r="3.5"/>
+    <circle cx="250" cy="368" r="3.5"/><circle cx="270" cy="368" r="3.5"/><circle cx="290" cy="368" r="3.5"/><circle cx="310" cy="368" r="3.5"/>
+  </g>
+  <!-- leaves -->
+  <g fill="#A9B596" stroke="#3A2622" stroke-width="1.8">
+    <path d="M300 186c14-8 28-4 32 4-12 8-26 6-32-4z"/>
+    <path d="M262 206c-4-14 2-26 12-28 4 12-2 24-12 28z"/>
+    <path d="M86 270c-14-6-20-18-16-26 12 2 20 14 16 26z"/>
+    <path d="M128 288c8 12 6 24-2 28-8-10-6-22 2-28z"/>
+  </g>
+  <!-- roses -->
+  <g stroke="#3A2622" stroke-width="2">
+    <circle cx="284" cy="196" r="20" fill="#D9A0AB"/>
+    <circle cx="258" cy="186" r="12" fill="#E8C4C0"/>
+    <circle cx="102" cy="284" r="18" fill="#D9A0AB"/>
+    <circle cx="124" cy="296" r="11" fill="#E8C4C0"/>
+  </g>
+  <g fill="none" stroke="#9C4257" stroke-width="1.8" stroke-linecap="round">
+    <path d="M284 196m-3 0a3 3 0 1 1 6 0 6 6 0 0 1-12 0 9 9 0 0 1 18 0 12 12 0 0 1-12 12"/>
+    <path d="M102 284m-3 0a3 3 0 1 1 6 0 6 6 0 0 1-12 0 9 9 0 0 1 18 0 11 11 0 0 1-11 11"/>
+    <path d="M258 186m-2 0a2 2 0 1 1 4 0 5 5 0 0 1-10 0"/>
+    <path d="M124 296m-2 0a2 2 0 1 1 4 0 5 5 0 0 1-10 0"/>
+  </g>
+  <!-- topper: heart -->
+  <path d="M200 116c-9-6-13-11-13-16 0-4 3-7 7-7 3 0 5 1.5 6 4 1-2.5 3-4 6-4 4 0 7 3 7 7 0 5-4 10-13 16z" fill="#9C4257"/>
+  <!-- sparkles -->
+  <g fill="#C9A36A">
+    <path d="M92 132l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/>
+    <path d="M318 96l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/>
+    <path d="M340 300l2.5 6 6 2.5-6 2.5-2.5 6-2.5-6-6-2.5 6-2.5z"/>
+    <path d="M58 214l2.5 6 6 2.5-6 2.5-2.5 6-2.5-6-6-2.5 6-2.5z"/>
+  </g>
+</svg>

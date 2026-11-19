@@ -1,0 +1,152 @@
+---
+format:
+  html:
+    include-before-body: _partials/header-en.html
+    include-after-body: _partials/footer-en.html
+title: "Creations: custom cakes, wedding cakes, pastries & sweet tables"
+description: "Custom celebration cakes, wedding cakes, 3D cakes, cheesecakes, French pastries, savoury bites, traditional sweets and sweet tables by Passion Gourmande in Ottawa."
+---
+
+:::: {.page-hero}
+::: {.wrap}
+[Creations]{.eyebrow}
+
+# Everything is *made to order*
+
+Every creation is designed for your event: the theme, the colours, the flavours and the number of guests.
+:::
+::::
+
+::::: {.band}
+:::: {.wrap}
+::: {.creation}
+[01]{.no}
+
+::: {.col}
+### Celebration cakes
+
+Birthdays, anniversaries, baby showers, graduations: a cake designed around your theme, from elegant and refined to fun and colourful for kids.
+
+- Birthdays
+- Baby showers & gender reveals
+- Anniversaries
+- Graduations
+:::
+:::
+
+::: {.creation}
+[02]{.no}
+
+::: {.col}
+### Wedding cakes
+
+Tiered cakes that match the style of your day, from classic white to floral and modern, plus engagement and henna-night cakes.
+
+- Weddings
+- Engagements
+- Henna nights
+:::
+:::
+
+::: {.creation}
+[03]{.no}
+
+::: {.col}
+### 3D & sculpted cakes
+
+A cake shaped like what you love: a favourite character, an object, a hobby. The kind of cake guests take photos of before they taste it.
+
+- Kids' parties
+- Themed birthdays
+- Surprises
+:::
+:::
+
+::: {.creation}
+[04]{.no}
+
+::: {.col}
+### Cheesecakes
+
+Creamy cheesecakes, as a celebration cake on their own or as part of a dessert table.
+
+- Dessert tables
+- Family gatherings
+- Gifts
+:::
+:::
+
+::: {.creation}
+[05]{.no}
+
+::: {.col}
+### French pastries & bites
+
+Mini pastries and sweet bites inspired by French pâtisserie, perfect for receptions, dessert tables and gift boxes.
+
+- Receptions
+- Corporate events
+- Gift boxes
+:::
+:::
+
+::: {.creation}
+[06]{.no}
+
+::: {.col}
+### Savoury bites & traditional sweets
+
+Savoury bites (*salés*) for receptions, and traditional sweets such as *qalb el louz* for celebrations and family gatherings.
+
+- Henna nights
+- Receptions
+- Eid & family gatherings
+:::
+:::
+
+::: {.creation}
+[07]{.no}
+
+::: {.col}
+### Sweet tables & buffets
+
+A complete, styled table for your event: cake, pastries, sweets and savoury bites, coordinated with your theme and colours.
+
+- Henna nights
+- Weddings
+- Corporate & community events
+:::
+:::
+::::
+:::::
+
+::::: {.band .tight .bg-cream}
+:::: {.wrap .split}
+::: {.col}
+## Allergies & *dietary needs*
+
+Please mention any allergies, intolerances or dietary needs in your request, so we can discuss what is possible for your order.
+:::
+
+::: {.col}
+## Sizes & *prices*
+
+Every quote is personal: it depends on the design, the number of servings and the date. Send your request and you will receive a quote for your event.
+:::
+::::
+:::::
+
+::::: {.cta-band}
+::: {.wrap}
+## Ready to plan *your cake?*
+
+Tell me about your event, your theme and your favourite flavours.
+
+```{=html}
+<div class="actions">
+  <a class="btn btn-rose" href="order.html">Order a cake</a>
+  <a class="btn btn-line" href="gallery.html">See the gallery</a>
+</div>
+```
+:::
+:::::

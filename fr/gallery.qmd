@@ -1,0 +1,34 @@
+---
+title: "Galerie"
+description: "Gâteaux et créations récentes de Passion Gourmande by Lilya, cake artist à Ottawa."
+---
+
+:::: {.page-hero}
+::: {.wrap}
+[Galerie]{.eyebrow}
+
+# Créations *récentes*
+
+Gâteaux de mariage, d'anniversaire, gâteaux 3D, pâtisseries et tables sucrées, tout droit d'Instagram.
+:::
+::::
+
+::::: {.band}
+:::: {.wrap}
+{{< include ../_partials/_ig-gallery-fr.md >}}
+::::
+:::::
+
+::::: {.cta-band}
+::: {.wrap}
+## Un coup de cœur *dans la galerie ?*
+
+Envoyez-le comme inspiration avec votre demande. Chaque gâteau est unique.
+
+```{=html}
+<div class="actions">
+  <a class="btn btn-rose" href="order.html">Commander un gâteau</a>
+</div>
+```
+:::
+:::::

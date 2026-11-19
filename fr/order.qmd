@@ -1,0 +1,30 @@
+---
+title: "Commander un gâteau"
+description: "Commandez un gâteau personnalisé, un gâteau de mariage, des pâtisseries ou une table sucrée chez Passion Gourmande by Lilya à Ottawa. Demande en ligne ou message Instagram."
+---
+
+:::: {.page-hero}
+::: {.wrap}
+[Commander]{.eyebrow}
+
+# Imaginons *votre gâteau*
+
+Décrivez votre événement en deux courtes étapes. Je vous recontacte pour parler du design et vous envoyer un devis.
+:::
+::::
+
+::::: {.band .bg-cream}
+:::: {.wrap .split}
+{{< include ../_partials/_form-fr.md >}}
+
+::: {.col}
+### Contact
+
+{{< include ../_partials/_contact-fr.md >}}
+
+::: {.callout-box}
+**Bon à savoir.** Commandez le plus tôt possible, surtout pour les mariages et les périodes de fêtes. Les photos d'inspiration aident beaucoup : envoyez-les dans la même conversation que votre demande.
+:::
+:::
+::::
+:::::
